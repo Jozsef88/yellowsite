@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/yellowsite/static/css/main.c80927a7.chunk.css",
+    "main.js": "/yellowsite/static/js/main.e8fbea01.chunk.js",
+    "main.js.map": "/yellowsite/static/js/main.e8fbea01.chunk.js.map",
+    "runtime-main.js": "/yellowsite/static/js/runtime-main.524d0f47.js",
+    "runtime-main.js.map": "/yellowsite/static/js/runtime-main.524d0f47.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/yellowsite/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.2ced2081.chunk.js": "/yellowsite/static/js/2.2ced2081.chunk.js",
+    "static/js/2.2ced2081.chunk.js.map": "/yellowsite/static/js/2.2ced2081.chunk.js.map",
+    "index.html": "/yellowsite/index.html",
+    "precache-manifest.4b0624edef99ce7a9604733c31d27f77.js": "/yellowsite/precache-manifest.4b0624edef99ce7a9604733c31d27f77.js",
+    "service-worker.js": "/yellowsite/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/yellowsite/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.c80927a7.chunk.css.map": "/yellowsite/static/css/main.c80927a7.chunk.css.map",
+    "static/js/2.2ced2081.chunk.js.LICENSE.txt": "/yellowsite/static/js/2.2ced2081.chunk.js.LICENSE.txt",
+    "static/media/agency.min.css": "/yellowsite/static/media/map-image.f40ed5b1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.524d0f47.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.2ced2081.chunk.js",
+    "static/css/main.c80927a7.chunk.css",
+    "static/js/main.e8fbea01.chunk.js"
+  ]
+}
